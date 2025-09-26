@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/lambda/Ejercicio2/Ejercicio2.iml" filepath="$PROJECT_DIR$/lambda/Ejercicio2/Ejercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda/Ejercicio3/Ejercicio3.iml" filepath="$PROJECT_DIR$/lambda/Ejercicio3/Ejercicio3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ejercicio5/Ejercicio5.iml" filepath="$PROJECT_DIR$/Ejercicio5/Ejercicio5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ejercicio6/Ejercicio6.iml" filepath="$PROJECT_DIR$/Ejercicio6/Ejercicio6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/srvproc2.iml" filepath="$PROJECT_DIR$/srvproc2.iml" />
     </modules>
   </component>
